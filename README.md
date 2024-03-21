@@ -12,7 +12,7 @@ I'm Mir Sufyan Ali, a passionate web developer from MH, India. I recently comple
 - 🌱 I’m constantly learning and exploring new technologies.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 Reach me at LinkedIn - https://www.linkedin.com/in/sufyanalimir/.
-- ⚡ I'm a person who flex more but know less.
+- ⚡ I'm a person who flex more but knows less.
 
 Feel free to connect with me and explore opportunities for collaboration or just to chat about tech and beyond!
 
