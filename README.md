@@ -11,7 +11,7 @@ I'm Mir Sufyan Ali, a passionate web developer from MH, India. I recently comple
 - 🔭 I’m currently working on ReactJS.
 - 🌱 I’m constantly learning and exploring new technologies.
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 Reach me at: LinkedIn - https://www.linkedin.com/in/sufyanalimir/.
+- 📫 Reach me at LinkedIn - https://www.linkedin.com/in/sufyanalimir/.
 - ⚡ I'm a person who flex more but know less.
 
 Feel free to connect with me and explore opportunities for collaboration or just to chat about tech and beyond!
