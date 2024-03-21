@@ -1,5 +1,6 @@
-<h1>The plan is to fan this spark into a flame.</h1>
-<h3>Web Developer</h3>
+# The plan is to fan this spark into a flame.
+
+## Web Developer
 
 # Hi there! 👋
 
